@@ -9,4 +9,4 @@
 - [RWPod](http://www.rwpod.com/) - Ruby and Web podcast: weekly news.
 - [RubyNoName](http://rubynoname.ru/) - A podcast about Ruby.
 - [DevZen](http://devzen.ru/)
-- [Radio-T](radio-t.com)
+- [Radio-T](http://radio-t.com)
