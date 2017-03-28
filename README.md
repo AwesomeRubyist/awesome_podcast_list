@@ -5,6 +5,8 @@
 - [The Changelog Podcast](https://changelog.com/podcast/) - Open source moves fast. Keep up.
 - [Developer Tea](https://developertea.com/) - Top-ranked podcast for developers designed to fit inside a tea break.
 - [Ruby5](https://ruby5.codeschool.com/) - Tune in every Tuesday and Friday for the latest news in the Ruby and Rails community.
+- [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - a podcast about Ruby on Rails, open source software, and the programming profession. Hosted by [Kyle Daigle](https://twitter.com/kdaigle)
+
 
 ## ru podcasts
 - [RWPod](http://www.rwpod.com/) - Ruby and Web podcast: weekly news.
